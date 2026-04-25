@@ -1,0 +1,2 @@
+# report_tool has no external dependencies.
+# Requires Python 3.10+.
